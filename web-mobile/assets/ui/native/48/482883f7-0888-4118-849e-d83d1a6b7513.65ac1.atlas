@@ -1,0 +1,153 @@
+
+huoban_fz_04.png
+size: 570,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1shenti
+  rotate: true
+  xy: 245, 11
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+dazhao_zi
+  rotate: false
+  xy: 0, 28
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+fazhang
+  rotate: true
+  xy: 349, 2
+  size: 79, 123
+  orig: 79, 123
+  offset: 0, 0
+  index: -1
+fazhang1
+  rotate: false
+  xy: 451, 81
+  size: 79, 123
+  orig: 79, 123
+  offset: 0, 0
+  index: -1
+jiaxue
+  rotate: false
+  xy: 183, 2
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+jiaxuex
+  rotate: false
+  xy: 176, 52
+  size: 81, 152
+  orig: 81, 152
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 530, 144
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 337, 81
+  size: 123, 114
+  orig: 123, 114
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 276, 0
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+qiu1
+  rotate: false
+  xy: 472, 8
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 0, 2
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 530, 108
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+xi
+  rotate: true
+  xy: 257, 73
+  size: 131, 40
+  orig: 131, 40
+  offset: 0, 0
+  index: -1
+xi1
+  rotate: true
+  xy: 297, 73
+  size: 131, 40
+  orig: 131, 40
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 119, 10
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 103, 5
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 166, 10
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 45, 2
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 86, 2
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 257, 56
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 66, 2
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1

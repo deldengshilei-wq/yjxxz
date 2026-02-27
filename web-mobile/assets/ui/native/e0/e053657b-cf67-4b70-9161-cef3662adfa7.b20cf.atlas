@@ -1,0 +1,244 @@
+
+boss_03.png
+size: 884,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 202, 185
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 0, 167
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 0, 7
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 362, 176
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+bao1
+  rotate: false
+  xy: 641, 298
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+bao2
+  rotate: false
+  xy: 699, 413
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+bao3
+  rotate: false
+  xy: 646, 190
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+bao4
+  rotate: false
+  xy: 749, 305
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+bao5
+  rotate: false
+  xy: 646, 82
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+bianzi
+  rotate: true
+  xy: 454, 1
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1
+dao
+  rotate: false
+  xy: 378, 336
+  size: 63, 185
+  orig: 63, 185
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: true
+  xy: 454, 72
+  size: 104, 63
+  orig: 104, 63
+  offset: 0, 0
+  index: -1
+dazhao_zi
+  rotate: false
+  xy: 202, 345
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+qiuxingguang
+  rotate: false
+  xy: 726, 9
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 754, 84
+  size: 103, 94
+  orig: 103, 94
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 441, 336
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 754, 178
+  size: 94, 127
+  orig: 94, 127
+  offset: 0, 0
+  index: -1
+y1
+  rotate: true
+  xy: 160, 70
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+y2
+  rotate: true
+  xy: 807, 420
+  size: 101, 77
+  orig: 101, 77
+  offset: 0, 0
+  index: -1
+y3
+  rotate: true
+  xy: 517, 43
+  size: 116, 97
+  orig: 116, 97
+  offset: 0, 0
+  index: -1
+y4
+  rotate: false
+  xy: 522, 159
+  size: 124, 109
+  orig: 124, 109
+  offset: 0, 0
+  index: -1
+y5
+  rotate: true
+  xy: 522, 268
+  size: 123, 119
+  orig: 123, 119
+  offset: 0, 0
+  index: -1
+y6
+  rotate: false
+  xy: 571, 406
+  size: 128, 115
+  orig: 128, 115
+  offset: 0, 0
+  index: -1
+y7
+  rotate: false
+  xy: 614, 0
+  size: 112, 82
+  orig: 112, 82
+  offset: 0, 0
+  index: -1
+yfs
+  rotate: true
+  xy: 347, 22
+  size: 154, 107
+  orig: 154, 107
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 160, 278
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+youchibang
+  rotate: true
+  xy: 0, 327
+  size: 194, 202
+  orig: 194, 202
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 160, 216
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 321, 129
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+zhen
+  rotate: false
+  xy: 441, 391
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 160, 115
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+zuochibang
+  rotate: false
+  xy: 201, 4
+  size: 120, 181
+  orig: 120, 181
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 160, 162
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 160, 4
+  size: 27, 66
+  orig: 27, 66
+  offset: 0, 0
+  index: -1

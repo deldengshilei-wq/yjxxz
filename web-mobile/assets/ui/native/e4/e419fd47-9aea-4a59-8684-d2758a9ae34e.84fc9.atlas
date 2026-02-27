@@ -1,0 +1,104 @@
+
+huoban_yc_03.png
+size: 290,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gong
+  rotate: true
+  xy: 0, 4
+  size: 133, 113
+  orig: 133, 113
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 113, 0
+  size: 146, 53
+  orig: 146, 53
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 191, 76
+  size: 61, 48
+  orig: 61, 48
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 239, 97
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+toukui
+  rotate: true
+  xy: 113, 53
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 0, 2
+  size: 2, 96
+  orig: 2, 96
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 216, 55
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: true
+  xy: 259, 8
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 191, 54
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 273, 120
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 239, 76
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 265, 79
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 273, 103
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 260, 56
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
